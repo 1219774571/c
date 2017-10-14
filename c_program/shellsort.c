@@ -2,7 +2,7 @@
 // shell排序算法
 //控制两个被计较元素之间的距离
 //元素间移动位置
-//比较交换
+//冒泡排序
 void shellsort(int v[],int n)
 {
 	int gap, i, j, temp;
